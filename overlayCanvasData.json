@@ -1,0 +1,74 @@
+{
+  "version": "2.3",
+  "imageMetadata": {
+    "Image": {
+      "xmlns": "http://schemas.microsoft.com/deepzoom/2008",
+      "Url": "//openseadragon.github.io/example-images/duomo/duomo_files/",
+      "Format": "jpg",
+      "Overlap": "2",
+      "TileSize": "256",
+      "Size": {
+        "Width": "13920",
+        "Height": "10200"
+      }
+    }
+  },
+  "polygonMetadata": {
+    "generator": "",
+    "generatorVersion": "",
+    "createdAt": "",
+    "updatedAt": ""
+  },
+  "polygons": [
+    {
+      "metadata": {
+        "id": 0,
+        "left": 0,
+        "top": 0,
+        "type": "a"
+      },
+      "points": [
+        {"x": 0, "y": 0},
+        {"x": 1000, "y": 0},
+        {"x": 1000, "y": 1000},
+        {"x": 0, "y": 1000}
+      ]
+    },
+    {
+      "metadata": {
+        "id": 1,
+        "left": 200,
+        "top": 200,
+        "type": "b"
+      },
+      "points": [
+        {"x": 3, "y": 4},
+        {"x": 16, "y": 3},
+        {"x": 30, "y": 5},
+        {"x": 25, "y": 55},
+        {"x": 19, "y": 44},
+        {"x": 15, "y": 55},
+        {"x": 9, "y": 55},
+        {"x": -2, "y": 55},
+        {"x": -4, "y": 40},
+        {"x": 0, "y": 20}
+      ]
+    },
+    {
+      "metadata": {
+        "id": 2,
+        "left": 500,
+        "top": 200,
+        "type": "c"
+      },
+      "points": [
+        {"x": 3, "y": 4},
+        {"x": 40, "y": 3},
+        {"x": 60, "y": 20},
+        {"x": 40, "y": 50},
+        {"x": 3, "y": 50}
+
+      ]
+    }
+  ]
+}
