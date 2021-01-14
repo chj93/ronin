@@ -25,7 +25,7 @@
         "id": 0,
         "left": 0,
         "top": 0,
-        "type": "a"
+        "type": "typeA"
       },
       "points": [
         {"x": 0, "y": 0},
@@ -39,7 +39,7 @@
         "id": 1,
         "left": 6960,
         "top": 5100,
-        "type": "b"
+        "type": "typeB"
       },
       "points": [
         {"x": 0, "y": 0},
@@ -53,7 +53,7 @@
         "id": 2,
         "left": 7200,
         "top": 3000,
-        "type": "c"
+        "type": "typeC"
       },
       "points": [
         {"x": 0, "y": 0},
